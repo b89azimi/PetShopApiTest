@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b60fb452-8738-4304-a11d-661a5142047b": {
+      "ProjectGuid": "b60fb452-8738-4304-a11d-661a5142047b",
+      "DisplayName": "PetShopProject.Test",
+      "ColorIndex": 0
+    },
+    "bf80bbf9-ae51-48f0-a033-1b6560bc37a5": {
+      "ProjectGuid": "bf80bbf9-ae51-48f0-a033-1b6560bc37a5",
+      "DisplayName": "PetShopProject.Api",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "dee36e53-f5d2-4daf-ac7f-8ab8068828c2": {
+      "ProjectGuid": "dee36e53-f5d2-4daf-ac7f-8ab8068828c2",
+      "DisplayName": "PetShopProject.UI",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
